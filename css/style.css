@@ -86,13 +86,14 @@ body{
 
 
 
-@media (min-width:375px) and (max-width:1024px){
+@media (min-width:374px) and (max-width:1023px){
 
     body{
-        margin:20px;
+        margin-left:30px;
     }
     .container{
         flex-direction:column;
+        
     }
     .image{
         background-image:url('../images/image-product-mobile.jpg');
